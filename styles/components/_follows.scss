@@ -1,0 +1,21 @@
+.follow__mobile {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  // .creator-info{
+  //   width;
+  // }
+  gap: 10px;
+  .content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+  }
+}
+ @media screen and (min-width: 981px) {
+   .follow__mobile {
+     display: none;
+   }
+   
+ }

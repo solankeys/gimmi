@@ -1,0 +1,146 @@
+.card-wrapper {
+	display: flex;
+	width: 485.86px;
+	// width: 32.8%;
+	min-height: 262px;
+	background-color: #ffffff;
+	padding: 20px 30px;
+	flex-shrink: 0;
+	gap: 15px;
+	margin-right: 10px;
+	position: relative;
+	.image-wrapper {
+		width: 33%;
+		img {
+			width: 104px;
+			height: 137px;
+		}
+	}
+	.dp__player {
+		position: absolute;
+		left: 20px;
+		top: 135px;
+	}
+	.text-wrapper {
+		width: 100%;
+	}
+
+	.store-info {
+		display: flex;
+		// align-items: center;
+		margin-bottom: 10px;
+
+		.content {
+			display: flex;
+			align-items: center;
+
+			.info {
+				margin-right: 20px;
+
+				.name {
+					color: #161616;
+					font-family: 'Relative-Bold';
+					font-size: 14px;
+					font-weight: 400;
+					line-height: 24px;
+					letter-spacing: 0.35px;
+				}
+
+				.quest {
+					margin-right: 20px;
+					white-space: nowrap;
+					font-size: 12px;
+					line-height: 20px;
+					letter-spacing: 0.428571px;
+
+					font-family: 'Relative Faux';
+				}
+			}
+		}
+
+		.avatar {
+			margin-right: 14px;
+		}
+	}
+
+	.description {
+		color: #222237;
+		font-family: 'Relative-Faux';
+		font-size: 14px;
+		font-weight: 400;
+		line-height: 18px;
+		letter-spacing: 0.35px;
+	}
+
+	.view-button {
+		margin-top: 20px;
+		width: 100%;
+		// display: flex;
+		// justify-content: center;
+		// align-items: center;
+
+		button {
+			width: 180px;
+			height: 40px;
+			background-color: #02ee81;
+			color: #222237;
+			font-family: 'Relative-Bold';
+			font-size: 10px;
+			font-weight: 400;
+			line-height: 12px;
+			text-align: center;
+			text-transform: uppercase;
+			letter-spacing: 1.8181819px;
+		}
+	}
+
+	.like-container {
+		display: flex;
+		position: absolute;
+		gap: 10px;
+		right: 10px;
+
+		top: 20px;
+
+		.likes {
+			color: #161616;
+			font-family: 'Relative-Faux';
+			font-size: 11px;
+			font-weight: 400;
+			line-height: 13px;
+			letter-spacing: 0.4125px;
+		}
+	}
+}
+
+@media screen and (max-width: 980px) {
+	.card-wrapper {
+		.store-info {
+			display: flex;
+			margin-bottom: 10px;
+			flex-direction: column;
+			.avatar {
+				margin-right: 0px;
+			}
+		}
+	}
+}
+@media screen and (max-width: 600px) {
+	.card-wrapper {
+		width: 90%;
+		.image-wrapper {
+			width: 33%;
+			img {
+				width: 100%;
+			}
+		}
+		.text-wrapper {
+			width: 66%;
+		}
+		.view-button {
+			button {
+				width: auto;
+			}
+		}
+	}
+}

@@ -1,0 +1,132 @@
+.review-wrapper {
+    padding: 40px 40px;
+
+
+
+    .top-content {
+        display: flex;
+        justify-content: space-between;
+
+
+    }
+
+    .title-main {
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .buttons {
+        display: flex;
+        align-items: center;
+
+        button {
+            width: 25px;
+            height: 25px;
+            background-color: #222237;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-left: 1px;
+            border-radius: 2px;
+        }
+    }
+
+    .embla {
+        overflow: hidden;
+        position: relative;
+    }
+
+
+}
+
+.images-wrapper {
+    position: relative;
+    width: 285px;
+    height: 235px;
+    flex-shrink: 0;
+    z-index: 1;
+    padding-right: 10px;
+
+    .text-container {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        z-index: 1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        gap: 10px;
+
+        .name {
+            color: #ffffff;
+            font-family: "Relative-Bold";
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 19px;
+        }
+    }
+
+    .review-name {
+        color: #ffffff;
+        font-family: "Relative-Bold";
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 22px;
+        letter-spacing: -0.75px;
+        position: absolute;
+        bottom: 10px;
+        left: 10px;
+        z-index: 1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+    .image {
+        max-height: 235px;
+        height: 100%;
+        width: 100%;
+    }
+
+    img {
+        height: 100%;
+
+    }
+
+    .reviews-wrapper {
+        position: absolute;
+        bottom: 5%;
+        right: 5%;
+        width: 54px;
+        height: 54px;
+        background: #02ee81;
+        display: flex;
+        align-items: center;
+        border-radius: 50%;
+        justify-content: center;
+
+        .reviews {
+
+            color: #222237;
+            font-family: "Relative-Bold";
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 32.4px;
+            text-align: center;
+
+
+        }
+    }
+
+}
+
+@media screen and (max-width: 980px) {
+    .review-wrapper {
+
+        padding: 20px;
+
+
+    }
+}

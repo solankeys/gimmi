@@ -1,0 +1,329 @@
+{
+    "influencer": {
+        "name": "Rodey Bros",
+        "avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+        "slug": "rodeybros"
+    },
+    "game": {
+        "slug": "rodeybros-muck",
+        "title": "Muck",
+        "developer": "Dani",
+        "genre": "Survival",
+        "cover": "https://admin.stampede.store/wp-content/uploads/2021/07/desktop_poster.jpg",
+        "price": "Free - Play Now",
+        "buyUrl": "https://store.steampowered.com/app/1625450/Muck/",
+        "requirements": {
+            "title": "PC Requirements",
+            "columns": [
+                "Array"
+            ]
+        },
+        "info": [
+            [
+                "Object"
+            ],
+            [
+                "Object"
+            ],
+            [
+                "Object"
+            ],
+            [
+                "Object"
+            ]
+        ],
+        "header_background_video": "https://admin.stampede.store/wp-content/uploads/2021/07/muck_header_bg_video.mp4",
+        "header_background_poster": "https://admin.stampede.store/wp-content/uploads/2021/07/muck_header_bg_poster.jpeg",
+        "game_trailer_video": "https://admin.stampede.store/wp-content/uploads/2021/07/muck_new_trailer_dani.mp4",
+        "game_trailer_poster": "https://admin.stampede.store/wp-content/uploads/2021/07/Muck-New-Trailer-Dani.00_00_04_29.Still001.jpg"
+    },
+    "gallery": [
+        {
+            "name": "Rodey Bros",
+            "image_file": "https://admin.stampede.store/wp-content/uploads/2021/07/muck_trailer_thumbnail.jpg",
+            "avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png"
+        },
+        {
+            "name": "Rodey Bros",
+            "avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+            "image_file": "https://admin.stampede.store/wp-content/uploads/2021/07/GameplayScreenshot1.png"
+        },
+        {
+            "name": "Rodey Bros",
+            "avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+            "image_file": "https://admin.stampede.store/wp-content/uploads/2021/07/GameplayScreenshot2.png"
+        },
+        {
+            "name": "Rodey Bros",
+            "avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+            "image_file": "https://admin.stampede.store/wp-content/uploads/2021/07/GameplayScreenshot3.png"
+        },
+        {
+            "name": "Rodey Bros",
+            "avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+            "image_file": "https://admin.stampede.store/wp-content/uploads/2021/07/GameplayScreenshot3.png"
+        },
+        {
+            "name": "Rodey Bros",
+            "avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+            "image_file": "https://admin.stampede.store/wp-content/uploads/2021/07/GameplayScreenshot3.png"
+        }
+    ],
+    "highlights": [
+        {
+            "tab_title": "Characters",
+            "tab_key": "characters",
+            "tab_score": "6.4",
+            "slides": [
+                "Array"
+            ]
+        },
+        {
+            "tab_title": "Modes",
+            "tab_key": "modes",
+            "tab_score": "5.7",
+            "slides": [
+                "Array"
+            ]
+        },
+        {
+            "tab_title": "Resources",
+            "tab_key": "resources",
+            "tab_score": "5.5",
+            "slides": [
+                "Array"
+            ]
+        }
+    ],
+    "questions": [
+        {
+            "image_file": "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/MrmgjZ9MKkOmGEm7auhG_w/Bitmap.png",
+            "name": "Rodey Bros",
+            "description": "Sup Jaayy, I’m a noob at this game, what’s the quickest way to earn points and build up my player status? thx.",
+            "player_dp" : "https://lun-eu.icons8.com/a/lvBXjo26lEivz_vfiC5DHA/AUHBAo_UiEmOR7Sqz4Hxyw/Bitmap_Copy_5.png"
+        },
+        {
+            "image_file": "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/NdBHFzdTiEOcBA1DCMyZrQ/Bitmap.png",
+            "name": "Rodey Bros",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua tempor incididunt ut dolore et dolore magna aliqua.",
+            "player_dp" : "https://lun-eu.icons8.com/a/lvBXjo26lEivz_vfiC5DHA/TopL7l26RkaU7NLG8boJRA/Group_15_Copy.png"
+        },
+        {
+            "image_file": "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/MKRmF2zHBECodEChv9cI2g/Bitmap_Copy_3.png",
+            "name": "Rodey Bros",
+            "description": "Sup Jaayy, I’m a noob at this game, what’s the quickest way to earn points and build up my player status? thx.",
+            "player_dp" : "https://lun-eu.icons8.com/a/lvBXjo26lEivz_vfiC5DHA/AUHBAo_UiEmOR7Sqz4Hxyw/Bitmap_Copy_5.png"
+        },
+        {
+            "image_file": "https://admin.stampede.store/wp-content/uploads/2021/07/GameplayScreenshot3.png",
+            "name": "Rodey Bros",
+            "description": "Sup Jaayy, I’m a noob at this game, what’s the quickest way to earn points and build up my player status? thx.",
+            "player_dp" : "https://lun-eu.icons8.com/a/lvBXjo26lEivz_vfiC5DHA/b5hsNyDR_Uurdp7V6W_b0g/Bitmap_Copy_4.png"
+        }
+    ],
+    "discussions": [
+        {
+            "image_file": "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/MrmgjZ9MKkOmGEm7auhG_w/Bitmap.png",
+            "name": "Rodey Bros",
+            "title": "Titanfall 2",
+            "username": "Twitteruser41578",
+            "description": "Sup Jaayy, I’m a noob at this game, what’s the quickest way to earn points and build up my player status? thx."
+        },
+        {
+            "image_file": "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/NdBHFzdTiEOcBA1DCMyZrQ/Bitmap.png",
+            "name": "Rodey Bros",
+            "title": "Titanfall 2",
+            "username": "Twitteruser41578",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua tempor incididunt ut dolore et dolore magna aliqua."
+        },
+        {
+            "image_file": "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/MKRmF2zHBECodEChv9cI2g/Bitmap_Copy_3.png",
+            "name": "Rodey Bros",
+            "title": "Titanfall 2",
+            "username": "Twitteruser41578",
+            "description": "Sup Jaayy, I’m a noob at this game, what’s the quickest way to earn points and build up my player status? thx."
+        },
+        {
+            "image_file": "https://admin.stampede.store/wp-content/uploads/2021/07/GameplayScreenshot3.png",
+            "name": "Rodey Bros",
+            "title": "Titanfall 2",
+            "username": "Twitteruser41578",
+            "description": "Sup Jaayy, I’m a noob at this game, what’s the quickest way to earn points and build up my player status? thx."
+        }
+    ],
+    "creator": [
+        {
+            "name": "Rodey Bros",
+            "avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+            "image": "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/gi1mg1Ju-EW5joyh-SAL2Q/Bitmap_Copy_8.png",
+            "image_list": [
+                "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/ntXlEldN8ky1ABWBRibZaA/Bitmap.png",
+                "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/rDh66eyjqEem9iVJhg24KQ/Bitmap.png"
+            ]
+        },
+        {
+            "name": "Jaayy",
+            "avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+            "image": "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/1cjIzuHTv0Wt2HCgnJ-kow/Bitmap_Copy_11.png",
+            "image_list": [
+                "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/ntXlEldN8ky1ABWBRibZaA/Bitmap.png",
+                "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/rDh66eyjqEem9iVJhg24KQ/Bitmap.png"
+            ]
+        },
+        {
+            "name": "Rodey Bros",
+            "avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+            "image": "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/q861b14d30KK-7T_o01s5w/Bitmap_Copy_14.png",
+            "image_list": [
+                "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/ntXlEldN8ky1ABWBRibZaA/Bitmap.png",
+                "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/rDh66eyjqEem9iVJhg24KQ/Bitmap.png"
+            ]
+        },
+        {
+            "name": "Rodey Bros",
+            "avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+            "image": "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/jVZ_G8yWUUGUXjrdvAuzZQ/Bitmap_Copy_17.png",
+            "image_list": [
+                "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/ntXlEldN8ky1ABWBRibZaA/Bitmap.png",
+                "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/rDh66eyjqEem9iVJhg24KQ/Bitmap.png"
+            ]
+        },
+        {
+            "name": "Rodey Bros",
+            "avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+            "image": "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/gi1mg1Ju-EW5joyh-SAL2Q/Bitmap_Copy_8.png",
+            "image_list": [
+                "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/ntXlEldN8ky1ABWBRibZaA/Bitmap.png",
+                "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/rDh66eyjqEem9iVJhg24KQ/Bitmap.png"
+            ]
+        },
+        {
+            "name": "Rodey Bros",
+            "avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+            "image": "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/gi1mg1Ju-EW5joyh-SAL2Q/Bitmap_Copy_8.png",
+            "image_list": [
+                "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/ntXlEldN8ky1ABWBRibZaA/Bitmap.png",
+                "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/rDh66eyjqEem9iVJhg24KQ/Bitmap.png"
+            ]
+        },
+        {
+            "name": "Rodey Bros",
+            "avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+            "image": "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/gi1mg1Ju-EW5joyh-SAL2Q/Bitmap_Copy_8.png",
+            "image_list": [
+                "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/ntXlEldN8ky1ABWBRibZaA/Bitmap.png",
+                "https://lun-eu.icons8.com/a/az1gOAwhj0mvUpXmfboNEQ/rDh66eyjqEem9iVJhg24KQ/Bitmap.png"
+            ]
+        }
+    ],
+    "followed_creator": [
+        {
+            "user_name": "Rodey",
+            "user_avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+            "user_image": "https://media.istockphoto.com/photos/bright-textured-background-of-green-hue-picture-id1294168122?b=1&k=20&m=1294168122&s=170667a&w=0&h=scZvApb60_mGXh3o50cE-KzKcAms_khG82mmVoiiM6U=",
+            "creator_game": [
+                {
+                    "creator_game_name": "Rodey Bros",
+                    "creator_game_img": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png"
+                },
+                {
+                    "creator_game_name": "Rodey Bros",
+                    "creator_game_img": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png"
+                }
+            ]
+        },
+        {
+            "user_name": "Rodey Bros",
+            "user_avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+            "user_image": "https://media.istockphoto.com/photos/bright-textured-background-of-green-hue-picture-id1294168122?b=1&k=20&m=1294168122&s=170667a&w=0&h=scZvApb60_mGXh3o50cE-KzKcAms_khG82mmVoiiM6U=",
+            "creator_game": [
+                {
+                    "creator_game_name": "Rodey Bros",
+                    "creator_game_img": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png"
+                },
+                {
+                    "creator_game_name": "Rodey Bros",
+                    "creator_game_img": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png"
+                }
+            ]
+        },
+        {
+            "user_name": "Rodey Bros",
+            "user_avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+            "user_image": "https://media.istockphoto.com/photos/bright-textured-background-of-green-hue-picture-id1294168122?b=1&k=20&m=1294168122&s=170667a&w=0&h=scZvApb60_mGXh3o50cE-KzKcAms_khG82mmVoiiM6U=",
+            "creator_game": [
+                {
+                    "creator_game_name": "Rodey Bros",
+                    "creator_game_img": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png"
+                },
+                {
+                    "creator_game_name": "Rodey Bros",
+                    "creator_game_img": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png"
+                }
+            ]
+        },
+        {
+            "user_name": "Rodey Bros",
+            "user_avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+            "user_image": "https://media.istockphoto.com/photos/bright-textured-background-of-green-hue-picture-id1294168122?b=1&k=20&m=1294168122&s=170667a&w=0&h=scZvApb60_mGXh3o50cE-KzKcAms_khG82mmVoiiM6U=",
+            "creator_game": [
+                {
+                    "creator_game_name": "Rodey Bros",
+                    "creator_game_img": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png"
+                },
+                {
+                    "creator_game_name": "Rodey Bros",
+                    "creator_game_img": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png"
+                }
+            ]
+        },
+        {
+            "user_name": "Rodey Bros",
+            "user_avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+            "user_image": "https://media.istockphoto.com/photos/bright-textured-background-of-green-hue-picture-id1294168122?b=1&k=20&m=1294168122&s=170667a&w=0&h=scZvApb60_mGXh3o50cE-KzKcAms_khG82mmVoiiM6U=",
+            "creator_game": [
+                {
+                    "creator_game_name": "Rodey Bros",
+                    "creator_game_img": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png"
+                },
+                {
+                    "creator_game_name": "Rodey Bros",
+                    "creator_game_img": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png"
+                }
+            ]
+        },
+        {
+            "user_name": "Rodey Bros",
+            "user_avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+            "user_image": "https://media.istockphoto.com/photos/bright-textured-background-of-green-hue-picture-id1294168122?b=1&k=20&m=1294168122&s=170667a&w=0&h=scZvApb60_mGXh3o50cE-KzKcAms_khG82mmVoiiM6U=",
+            "creator_game": [
+                {
+                    "creator_game_name": "Rodey Bros",
+                    "creator_game_img": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png"
+                },
+                {
+                    "creator_game_name": "Rodey Bros",
+                    "creator_game_img": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png"
+                }
+            ]
+        },
+        {
+            "user_name": "Rodey Bros",
+            "user_avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+            "creator_game": [
+                {
+                    "creator_game_name": "Rodey Bros",
+                    "creator_game_img": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png"
+                },
+                {
+                    "creator_game_name": "Rodey Bros",
+                    "creator_game_img": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png"
+                },
+                {
+                    "creator_game_name": "Rodey Bros",
+                    "creator_game_img": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png"
+                }
+            ]
+        }
+    ]
+}

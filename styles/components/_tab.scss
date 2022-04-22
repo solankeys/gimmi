@@ -1,0 +1,26 @@
+.comment-tab {
+  // position: absolute;
+  position: relative;
+  .ant-tabs-nav {
+    position: absolute;
+    right: 50px;
+    top:100px;
+    z-index: 100;
+  }
+  .ant-tabs-nav::before {
+    border-bottom: 1px solid #e4e4e4 !important;
+  }
+  .ant-tabs-tab-active  {
+    .ant-tabs-tab-btn {
+      color: #000;
+      text-shadow: none;
+    }
+  }
+  .ant-tabs-tab-btn:hover {
+    color: #02ee81;
+    text-shadow: none;
+  }
+  .ant-tabs-ink-bar {
+    background: #02ee81 !important;
+  }
+}

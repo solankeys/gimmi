@@ -1,0 +1,157 @@
+.card-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 485.86px;
+  min-height: 262px;
+  background-color: #ffffff;
+  padding: 20px 30px;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  gap: 15px;
+  margin-right: 10px;
+  position: relative;
+}
+
+.card-wrapper .image-wrapper {
+  width: 33%;
+}
+
+.card-wrapper .image-wrapper img {
+  width: 104px;
+  height: 137px;
+}
+
+.card-wrapper .dp__player {
+  position: absolute;
+  left: 20px;
+  top: 135px;
+}
+
+.card-wrapper .text-wrapper {
+  width: 100%;
+}
+
+.card-wrapper .store-info {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.card-wrapper .store-info .content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.card-wrapper .store-info .content .info {
+  margin-right: 20px;
+}
+
+.card-wrapper .store-info .content .info .name {
+  color: #161616;
+  font-family: 'Relative-Bold';
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.35px;
+}
+
+.card-wrapper .store-info .content .info .quest {
+  margin-right: 20px;
+  white-space: nowrap;
+  font-size: 12px;
+  line-height: 20px;
+  letter-spacing: 0.428571px;
+  font-family: 'Relative Faux';
+}
+
+.card-wrapper .store-info .avatar {
+  margin-right: 14px;
+}
+
+.card-wrapper .description {
+  color: #222237;
+  font-family: 'Relative-Faux';
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0.35px;
+}
+
+.card-wrapper .view-button {
+  margin-top: 20px;
+  width: 100%;
+}
+
+.card-wrapper .view-button button {
+  width: 180px;
+  height: 40px;
+  background-color: #02ee81;
+  color: #222237;
+  font-family: 'Relative-Bold';
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 12px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1.8181819px;
+}
+
+.card-wrapper .like-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+  gap: 10px;
+  right: 10px;
+  top: 20px;
+}
+
+.card-wrapper .like-container .likes {
+  color: #161616;
+  font-family: 'Relative-Faux';
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 13px;
+  letter-spacing: 0.4125px;
+}
+
+@media screen and (max-width: 980px) {
+  .card-wrapper .store-info {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-bottom: 10px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .card-wrapper .store-info .avatar {
+    margin-right: 0px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .card-wrapper {
+    width: 90%;
+  }
+  .card-wrapper .image-wrapper {
+    width: 33%;
+  }
+  .card-wrapper .image-wrapper img {
+    width: 100%;
+  }
+  .card-wrapper .text-wrapper {
+    width: 66%;
+  }
+  .card-wrapper .view-button button {
+    width: auto;
+  }
+}
+/*# sourceMappingURL=card.css.map */

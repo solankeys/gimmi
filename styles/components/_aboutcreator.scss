@@ -1,0 +1,139 @@
+.about-creator {
+	padding: 20px 0 0;
+
+	h4 {
+		margin: 20px 0;
+		font-size: 21px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	hr {
+		border: 1px solid #e4e4e4;
+	}
+	.about-creator__description {
+		margin: 20px 0;
+		.about-creator__left {
+			h5 {
+				font-size: 16px;
+			}
+			.description {
+				margin: 20px 0 10px;
+				padding-left: 15px;
+				padding-right: 15px;
+				h5 {
+					margin: 10px 0;
+				}
+				p {
+					font-size: 14px;
+				}
+			}
+			.specs {
+				h5 {
+					padding-left: 15px;
+					padding-right: 15px;
+				}
+				margin: 30px 0 20px;
+				.image-container {
+					margin: 10px 0;
+				}
+				.specs__specification {
+					display: flex;
+					flex-direction: column;
+					padding-left: 15px;
+					padding-right: 15px;
+					span {
+						font-size: 14px;
+					}
+				}
+			}
+		}
+		hr {
+			width: 93%;
+			margin: 0 auto;
+			color: #d8d8d8;
+		}
+		.about-creator__right {
+			padding: 30px 10px;
+			.game-genre {
+				margin-bottom: 40px;
+			}
+		}
+	}
+	.creator__channelsWrapper {
+		background-color: #f2f2f2;
+		height: 178px;
+		border-radius: 8px;
+		text-align: center;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		gap: 20px;
+		h5 {
+			font-size: 16px;
+		}
+		.creator__channels {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			gap: 15px;
+		}
+	}
+}
+
+@media screen and (min-width: 768px) {
+	.about-creator {
+		padding: 0 15px 20px;
+		h4 {
+			padding: 0;
+		}
+		.about-creator__description {
+			.about-creator__left {
+				.description {
+					padding: 0;
+				}
+				.specs {
+					h5 {
+						padding: 0;
+					}
+					.specs__specification {
+						padding: 0;
+					}
+				}
+			}
+			hr {
+				width: 100%;
+			}
+			.about-creator__right {
+				padding: 20px 0;
+			}
+		}
+	}
+}
+
+@media screen and (min-width: 1024px) {
+	.about-creator {
+		padding: 20px 40px;
+		.about-creator__description {
+			display: flex;
+			justify-content: space-between;
+			.about-creator__left {
+				width: 60%;
+				.description {
+					padding: 0;
+					p {
+						font-size: 16px;
+					}
+				}
+				.specs {
+					span {
+						font-size: 16px;
+					}
+				}
+			}
+			hr {
+				display: none;
+			}
+		}
+	}
+}

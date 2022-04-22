@@ -1,0 +1,17 @@
+.question-wrapper {
+    padding: 20px 40px;
+    background-color: #F8F8F8;
+    // width: 1680px;
+    // height: 410px;
+    margin-top: 20px;
+
+
+}
+
+@media screen and (max-width: 980px) {
+    .question-wrapper {
+        padding: 10px;
+
+
+    }
+}

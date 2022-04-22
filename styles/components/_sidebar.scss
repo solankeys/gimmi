@@ -1,0 +1,20 @@
+.game-review__mobile {
+  position: relative;
+}
+  .sidebar {
+    position: absolute;
+    right:5px;
+    top:80px;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    .iconbtn{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+    .text {
+      color:#fff; 
+    }
+  }

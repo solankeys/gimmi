@@ -1,0 +1,14 @@
+ul {
+	list-style: none;
+	padding: 0;
+	.account-overlay__menuLi {
+		border-top: 1px solid #d5d5d5;
+		padding: 24px 20px;
+		font-size: 14px;
+		line-height: 16px;
+		font-weight: bold;
+	}
+	.creater {
+		border-bottom: 1px solid #d5d5d5;
+	}
+}

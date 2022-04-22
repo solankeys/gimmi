@@ -1,0 +1,64 @@
+.gallery-wrapper {
+	padding: 30px 150px;
+	display: flex;
+	margin: 0 auto;
+	max-width: 93.125rem;
+	background-image: linear-gradient(to bottom ,#f8f8f8 80%, #fff 0%);
+	.text {
+		max-width: 420px;
+		.title {
+			color: #222237;
+			font-family: 'Relative-Bold';
+			font-size: 24px;
+			font-weight: 400;
+			line-height: 29px;
+			letter-spacing: -1px;
+			margin-bottom: 15px;
+			margin-top: 30px;
+		}
+
+		.description {
+			color: #222237;
+			font-family: 'Relative-Bold';
+			font-size: 14px;
+			font-weight: 400;
+			line-height: 18px;
+			letter-spacing: 0.35px;
+		}
+
+		.avatar {
+			margin-right: -30px;
+		}
+	}
+	.reviewer-image {
+		img {
+			width: 100%;
+			height: 100%;
+		}
+	}
+
+	.apply-button {
+		margin-top: 20px;
+		width: 100%;
+		button {
+			width: 180px;
+			height: 40px;
+			background-color: #02ee81;
+			color: #222237;
+			font-family: 'Relative-Bold';
+			font-size: 10px;
+			font-weight: 400;
+			line-height: 12px;
+			text-align: center;
+			text-transform: uppercase;
+			letter-spacing: 1.8181819px;
+		}
+	}
+}
+
+@media screen and (max-width: 980px) {
+	.gallery-wrapper {
+		padding: 20px;
+		display: block;
+	}
+}

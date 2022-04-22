@@ -1,0 +1,62 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# vercel
+.vercel
+/wordpress/wp-admin
+/wordpress/wp-config-docker.php
+/wordpress/wp-config-sample.php
+/wordpress/wp-cron.php
+/wordpress/wp-links-opml.php
+/wordpress/wp-load.php
+/wordpress/wp-login.php
+/wordpress/wp-mail.php
+/wordpress/wp-settings.php
+/wordpress/wp-signup.php
+/wordpress/wp-trackback.php
+/wordpress/xmlrpc.php
+/wordpress/wp-includes
+/wordpress/.htaccess
+/wordpress/index.php
+/wordpress/license.txt
+/wordpress/readme.html
+/wordpress/wp-activate.php
+/wordpress/wp-blog-header.php
+/wordpress/wp-comments-post.php
+/wordpress/wp-config.php
+/wordpress/wp-content/upgrade
+/wordpress/wp-content/uploads
+/wordpress
+/.env
+
+.env
+.env.local

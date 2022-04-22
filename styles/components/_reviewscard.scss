@@ -1,0 +1,168 @@
+.all-creatersContainer {
+	max-width: 1490px;
+	margin: 0 auto;
+	margin-top: 40px;
+	width: 100%;
+	padding: 0 10px;
+
+	h1 {
+		font-weight: 500;
+	}
+
+	.all-creaters {
+		display: flex;
+		align-items: center;
+		flex-wrap: wrap;
+		margin: 0 auto;
+		margin-top: 20px;
+		margin-bottom: 100px;
+		justify-content: space-between;
+		// gap: 12px;
+		.card-container {
+			width: 48.2%;
+			margin-bottom: 12px;
+			.reviews-cardMobile {
+				position: relative;
+				height: 234px;
+				background-color: #f8f8f8;
+				.game-title {
+					padding: 0 10px;
+				}
+				.gamer-profile {
+					display: flex;
+					align-items: center;
+					// gap: 10px;
+					padding: 20px 10px;
+					.profile-container {
+						width: 24px;
+						height: 24px;
+						border-radius: 50%;
+						img {
+							border-radius: 50%;
+							object-fit: cover;
+						}
+					}
+				}
+				.ratingMobile {
+					width: 42px;
+					height: 42px;
+					border-radius: 50%;
+					text-align: center;
+					display: flex;
+					align-items: center;
+					justify-content: center;
+					background-color: #02ee81;
+					position: absolute;
+					top: 90px;
+					right: 10px;
+				}
+				.image-container {
+					height: 144px;
+					img {
+						height: 100%;
+						width: 100%;
+						object-fit: cover;
+					}
+				}
+			}
+			.reviews-card {
+				display: none;
+			}
+		}
+	}
+}
+@media screen and (min-width: 640px) {
+	.all-creatersContainer {
+		padding: 40px;
+		.all-creaters {
+			justify-content: space-between;
+			// gap: 11px;
+			.card-container {
+				width: 32.2%;
+			}
+		}
+	}
+}
+@media screen and (min-width: 1024px) {
+	.all-creatersContainer {
+		padding: 0 40px;
+		.all-creaters {
+			// gap: 10px;
+			row-gap: 10px;
+			.card-container {
+				width: 24.4%;
+				margin-bottom: 0;
+				.reviews-cardMobile {
+					display: none;
+				}
+				.reviews-card {
+					position: relative;
+					height: 296px;
+					display: block;
+					.gamer-profile {
+						position: absolute;
+						display: flex;
+						align-items: center;
+						gap: 10px;
+						top: 20px;
+						color: #fff;
+						z-index: 10;
+						padding: 0 10px;
+						.creater-name {
+							font-size: 16px;
+						}
+						.profile-container {
+							width: 40px;
+							height: 40px;
+							border-radius: 50%;
+							img {
+								border-radius: 50%;
+								object-fit: cover;
+							}
+						}
+					}
+					.image-container {
+						width: 100%;
+						height: 100%;
+						img {
+							height: 100%;
+							width: 100%;
+							object-fit: cover;
+						}
+					}
+					.game {
+						display: flex;
+						align-items: center;
+						justify-content: space-between;
+						position: absolute;
+						z-index: 10;
+						bottom: 10px;
+						width: 100%;
+						padding: 0 10px;
+						font-size: 18px;
+						.game-title {
+							color: #fff;
+							max-width: 60%;
+						}
+						.rating {
+							width: 54px;
+							height: 54px;
+							border-radius: 50%;
+							text-align: center;
+							display: flex;
+							align-items: center;
+							justify-content: center;
+							background-color: #02ee81;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+@media screen and (min-width: 1490px) {
+	.all-creatersContainer {
+		padding: 0;
+	}
+}

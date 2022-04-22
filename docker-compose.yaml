@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+  # Database
+  db:
+    image: mysql:5.7
+    volumes:
+      - mysqlV:/var/lib/mysql
+    restart: always
+    container_name: mysql
+    command: mysqld --character-set-server=utf8 --collation-server=utf8_general_ci
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: accounts
+      MYSQL_USER: pepper
+      MYSQL_PASSWORD: password
+    ports:
+      - '3306:3306'
+volumes:
+  mysqlV:

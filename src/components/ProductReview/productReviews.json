@@ -1,0 +1,71 @@
+{
+	"influencer": {
+		"name": "BradWOTO",
+		"avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+		"slug": "rodeybros"
+	},
+	"about_product": {
+		"title": "Patrol Leather - 42mm",
+		"price": "150",
+		"heading": "The Patrol is for those who are on time, all the time.",
+		"text": "24-hour indices on the inner bezel surround pronounced numerical markers on the face. It's got a slim profile paired with a genuine leather band that's a modern take on a classic field watch.",
+		"video_poster": "https://admin.stampede.store/wp-content/uploads/2021/07/poster.png",
+		"video_file": "https://admin.stampede.store/wp-content/uploads/2021/07/overview.mp4",
+		"mobile_image": "https://admin.stampede.store/wp-content/uploads/2021/07/mobile_poster_1.jpg"
+	},
+
+	"comments": [
+		{
+			"user_name": "Errika",
+			"user_avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+			"user_question": "Hey Brad, beautiful watch man. Can you recommend a good alternate leather band to compliment?",
+			"influencer_response": "I got the Fullmosa leather strap and it looks great."
+		},
+		{
+			"user_name": "Errika",
+			"user_avatar": "https://admin.stampede.store/wp-content/uploads/2021/07/rodeyBro_pfp.png",
+			"user_question": "Hey Brad, beautiful watch man. Can you recommend a good alternate leather band to compliment?",
+			"influencer_response": "I got the Fullmosa leather strap and it looks great."
+		}
+	],
+	"slideshow_images": [
+		{
+			"images": "https://dev1-admin.gimmi.co/wp-content/uploads/2022/03/product1.jpg"
+		},
+		{
+			"images": "https://dev1-admin.gimmi.co/wp-content/uploads/2022/03/feature3.jpg"
+		},
+		{
+			"images": "https://dev1-admin.gimmi.co/wp-content/uploads/2022/03/feature2.jpg"
+		}
+    
+      
+      
+      
+	],
+	"slideshow_image": [
+		{
+			"images": "https://dev1-admin.gimmi.co/wp-content/uploads/2022/03/product1.jpg"
+		},
+		{
+			"images": "https://dev1-admin.gimmi.co/wp-content/uploads/2022/03/feature3.jpg"
+		},
+		{
+			"images": "https://dev1-admin.gimmi.co/wp-content/uploads/2022/03/feature2.jpg"
+		},
+		{
+			"images": "https://dev1-admin.gimmi.co/wp-content/uploads/2022/03/product1.jpg"
+		},
+		{
+			"images": "https://dev1-admin.gimmi.co/wp-content/uploads/2022/03/feature3.jpg"
+		},
+		{
+			"images": "https://dev1-admin.gimmi.co/wp-content/uploads/2022/03/feature2.jpg"
+		}
+    
+    
+      
+      
+      
+	]
+}

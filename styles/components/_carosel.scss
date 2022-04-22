@@ -1,0 +1,51 @@
+.embla {
+  overflow: hidden;
+  position: relative;
+  color: #222237;
+  width: 100%;
+  height: 100%;
+
+  .container {
+    display: flex;
+    z-index: 1;
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+
+  .slide {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    flex-grow: 1;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+  }
+  .image {
+		width: 100%;
+		background-size: cover;
+		background-position: center 0;
+		z-index: 1;
+		flex-grow: 1;
+		flex-shrink: 0;
+	}
+}
+.image-container{
+  height:70vh;
+  width: 100%;
+}
+.tabspacer {
+  width: 100%;
+  height: 46px;
+  flex-shrink: 0;
+  background-color: #fff;
+}
+.account {
+  position: absolute;
+  top: 20px;
+  right: 17px;
+  z-index: 9;
+  color: #fff;
+}
